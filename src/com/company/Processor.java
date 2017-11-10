@@ -71,7 +71,6 @@ public class Processor {
     }
 
     private void readIt() {
-        // read the json files into WorkOrders and put in map
         File directory = new File(".");
         File files[] = directory.listFiles();
         for(File f : files){

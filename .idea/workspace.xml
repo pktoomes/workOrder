@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="20d400dc-290d-4118-90cb-3a31e14f3ad5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Processor.java" afterPath="$PROJECT_DIR$/src/com/company/Processor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/WorkOrder.java" afterPath="$PROJECT_DIR$/src/com/company/WorkOrder.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="Processor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Processor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="134">
+              <caret line="72" column="27" lean-forward="false" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +109,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Status.java" />
         <option value="$PROJECT_DIR$/src/com/company/Creator.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Processor.java" />
         <option value="$PROJECT_DIR$/src/com/company/WorkOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Processor.java" />
       </list>
     </option>
   </component>
@@ -396,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Processor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="134">
+          <caret line="72" column="27" lean-forward="false" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
