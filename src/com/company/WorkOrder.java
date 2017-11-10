@@ -38,7 +38,7 @@ public class WorkOrder {
     }
 
     public void setStatus(Status status) {
-        status = status;
+        this.status = status;
     }
 
     @Override
